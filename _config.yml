@@ -4,5 +4,5 @@ description: Chris' homepage on the world wide web.
 analytics:
   provider: "google-gtag"
   google:
-    tracking_id: "UA-67434859-5"
+    tracking_id: "UA-125451449-1"
     anonymize_ip: false # default
